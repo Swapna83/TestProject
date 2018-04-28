@@ -1,0 +1,20 @@
+import java project from github
+
+go to github site sign in
+search for repository
+clone/download htttp url to clipboard or copy
+
+open git perspective
+click on clone a git repository
+next
+finish - copies repository from git
+switch java perspective
+right click import
+projects from git
+from existing local repository
+select project for e.g frogger
+import using new project wizard
+select java project
+enter project name , location donot use default- click on browse select git folder and select projectname
+appears in package explorer
+run as java project ask abt starting point-click to main
